@@ -50,7 +50,6 @@ npm run dev
 # or
 yarn dev
 ```
-The app will be available at [http://localhost:5173](http://localhost:5173).
 
 ### Building for Production
 ```bash
@@ -71,13 +70,7 @@ npm run format
 - Add images to `src/app/assets/images/`
 - Modify styles in `src/app/styles/`
 
-## Credits
-- UI components inspired by [Shadcn UI](https://ui.shadcn.com/)
-- Images and fonts: See `ATTRIBUTIONS.md`
-- Original Figma design: [Cake Shop Website](https://www.figma.com/design/64PIzxf2HmsLTAA4cyIBVW/Cake-Shop-Website)
 
-## License
-MIT
 
 ---
 For guidelines and contribution instructions, see `guidelines/Guidelines.md`.
